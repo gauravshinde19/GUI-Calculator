@@ -122,6 +122,6 @@ class MarvellousCalculator
 {
     public static void main(String Arg[])
     {
-        Calculator cobj = new Calculator(400, 400, "Marvellous PPA");
+        Calculator cobj = new Calculator(400, 400, "GUI Calculator");
     }
 }
